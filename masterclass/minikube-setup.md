@@ -113,5 +113,3 @@ kubectl expose pod hello-minikube --type=NodePort
 
 ### Authors
 Varun DB
-
-Personal Project on CNCF tools
